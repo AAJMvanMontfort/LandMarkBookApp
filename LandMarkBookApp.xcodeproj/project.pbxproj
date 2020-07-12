@@ -15,6 +15,7 @@
 		37029C2224B9AE3100B200AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37029C2024B9AE3100B200AA /* LaunchScreen.storyboard */; };
 		37029C2D24B9AE3100B200AA /* LandMarkBookAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37029C2C24B9AE3100B200AA /* LandMarkBookAppTests.swift */; };
 		37029C3824B9AE3100B200AA /* LandMarkBookAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37029C3724B9AE3100B200AA /* LandMarkBookAppUITests.swift */; };
+		370F46B124BB278D00AF90FD /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370F46B024BB278D00AF90FD /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		37029C3324B9AE3100B200AA /* LandMarkBookAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandMarkBookAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		37029C3724B9AE3100B200AA /* LandMarkBookAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandMarkBookAppUITests.swift; sourceTree = "<group>"; };
 		37029C3924B9AE3100B200AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		370F46B024BB278D00AF90FD /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				37029C1724B9AE3000B200AA /* SceneDelegate.swift */,
 				37029C1924B9AE3000B200AA /* ViewController.swift */,
 				37029C1B24B9AE3000B200AA /* Main.storyboard */,
+				370F46B024BB278D00AF90FD /* DetailViewController.swift */,
 				37029C1E24B9AE3100B200AA /* Assets.xcassets */,
 				37029C2024B9AE3100B200AA /* LaunchScreen.storyboard */,
 				37029C2324B9AE3100B200AA /* Info.plist */,
@@ -261,6 +264,7 @@
 				37029C1A24B9AE3000B200AA /* ViewController.swift in Sources */,
 				37029C1624B9AE3000B200AA /* AppDelegate.swift in Sources */,
 				37029C1824B9AE3000B200AA /* SceneDelegate.swift in Sources */,
+				370F46B124BB278D00AF90FD /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
